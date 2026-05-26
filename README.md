@@ -7,8 +7,8 @@ By applying Python-based data analysis and visualization techniques, the project
 
 ## 🔗 Live Interactive Report
 
-👉 [Click here to view the HTML version](https://rawcdn.githack.com/Starmos86/superstore-sales-analytics/refs/heads/main/Superstore%20Analytics%20Project.html)  
-*(No download needed — opens directly in your browser)*
+👉 [Click here to view the notebook project]([https://rawcdn.githack.com/Starmos86/superstore-sales-analytics/refs/heads/main/Superstore%20Analytics%20Project.html](https://github.com/Starmos86/superstore-sales-analytics-Python-/blob/main/Superstore%20Analytics%20Project.ipynb)  
+
 
 ---
 
