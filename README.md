@@ -47,7 +47,7 @@ By applying Python-based data analysis and visualization techniques, the project
 | File | Description |
 |------|-------------|
 | `Superstore Analytics Project.ipynb` | Full Jupyter notebook with analysis & visuals |
-| `superstore_2024.xlsx`               | Public dataset (2021–2024) used in the project |
+| `data/superstore _2024.xlsx`       | Public dataset (2021–2024) used in the project |
 
 ---
 
